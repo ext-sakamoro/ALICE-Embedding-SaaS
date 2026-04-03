@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_EMBEDDING
+name: alice-embedding
 description: ALICE Embedding
 type: application
 version: 0.1.0
